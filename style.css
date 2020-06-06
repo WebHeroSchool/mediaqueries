@@ -1,0 +1,27 @@
+/* smartphones */
+@media (min-width: 320px) {
+  .wrap__title {
+    font-size: 15px;
+  }
+}
+
+/* e-readers (Nook/Kindle) */
+@media (min-width: 481px) {
+  .wrap__title {
+    font-size: 24px;
+  }
+}
+
+/* tablets */
+@media (min-width: 641px) {
+  .wrap__title {
+    font-size: 32px;
+  }
+}
+
+/* laptops and desktops */
+@media (min-width: 1025px) {
+  .wrap__title {
+    font-size: 48px;
+  }
+}
